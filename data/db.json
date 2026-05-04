@@ -113,7 +113,7 @@
       "name": "Treasurer",
       "role": "Treasurer",
       "year": "1st Year",
-      "dept": "mathematics",
+      "dept": "Mathematics",
       "bio": "Manages club finances, budget allocation and resource procurement.",
       "avatar": "/uploads/1777586682192-Screenshot 2026-05-01 033340.png"
     },
@@ -122,7 +122,7 @@
       "name": "General Secretary",
       "role": "General Secretary",
       "year": "1st Year",
-      "dept": "commerce",
+      "dept": "Commerce",
       "bio": "Handles documentation, correspondence and day-to-day club operations.",
       "avatar": "/uploads/1777586494164-Screenshot 2026-05-01 033058.png"
     },
@@ -131,7 +131,7 @@
       "name": "Assistant Secretary",
       "role": "Assistant Secretary",
       "year": "3rd Year",
-      "dept": "mathematics",
+      "dept": "Mathematics",
       "bio": "Assists General Secretary, coordinates events and member communications.",
       "avatar": "/uploads/1777586743344-Screenshot 2026-05-01 033509.png"
     },
@@ -140,7 +140,7 @@
       "name": "Social Media Manager",
       "role": "Social Media Manager",
       "year": "2nd Year",
-      "dept": "CSE",
+      "dept": "Mathematics",
       "bio": "Manages social media presence, creates content and drives community engagement.",
       "avatar": ""
     }
@@ -154,11 +154,11 @@
     "contactText": "Walk into Build Club, introduce yourself, and start making things. No experience required, only curiosity. Reach out to learn more or join our next workshop.",
     "location": "St. Anthony's College, Shillong",
     "community": "Discord Build Club Server",
-    "discordUrl": "https://discord.gg/SjnfXMTS",
+    "discordUrl": "https://discord.gg/2fJADKyWxq",
     "contactEmail": "sacbuild2@gmail.com",
     "openHours": "24x7 - Walk in anytime",
     "logoText": "Build Club",
-    "logoIcon": "⚡",
+    "logoIcon": "?",
     "logoImage": "/uploads/1777589302316-Screenshot_2026-04-26_180038-removebg-preview.png",
     "stats": [
       {
